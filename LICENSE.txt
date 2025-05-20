@@ -1,0 +1,47 @@
+
+LRA1 Tool for Windows - License / ライセンス
+
+This software is a binary-only firmware updater designed for the LRA1 module.  
+It is developed and maintained by Shachi-lab, and may be distributed via i2-electronics.
+
+本ソフトウェアは、LRA1モジュール専用のファームウェア書き込みツール（バイナリ形式）です。  
+Shachi-lab により開発・保守され、i2-electronics を通じて配布されることがあります。
+
+---
+
+【Usage Terms / 使用条件】
+
+- This tool is provided free of charge for use with the LRA1 module only.
+- Commercial redistribution or inclusion in products requires prior permission.
+- The source code is not available. Reverse engineering or modification is prohibited.
+
+- 本ツールは LRA1 モジュールの書き込み用途に限り、無料で使用できます。
+- 商用製品への組み込みや、複製配布を希望する場合は事前にご相談ください。
+- ソースコードは公開されていません。改変・逆コンパイルは禁止されています。
+
+---
+
+【Redistribution / 再配布について】
+
+- Redistribution is allowed only in original form (Installer or ZIP), without modification.
+- Modified versions may not be distributed.
+- Misleading use of the names "i2-electronics" or "Shachi-lab" is prohibited.
+
+- 再配布を行う場合は、必ずオリジナルの配布物（インストーラーまたはZIP）を改変せずにそのまま配布してください。
+- 任意の変更を加えたバージョンを配布することはできません。
+- i2-electronics または Shachi-lab の名称を用いた誤解を招く表示は禁止されています。
+
+---
+
+【Disclaimer / 免責事項】
+
+- This software is provided "as is" without any warranty.
+- The authors are not responsible for any damage resulting from the use of this tool.
+
+- 本ソフトウェアの使用によって生じたいかなる損害についても、開発者は一切の責任を負いません。
+- 本ツールは「現状のまま」提供され、動作保証やサポートを約束するものではありません。
+
+---
+
+Copyright (C) 2025 Shachi-lab / i2-electronics  
+All rights reserved.
