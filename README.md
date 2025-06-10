@@ -48,13 +48,13 @@ Shachi-labにより開発・保守されており、i2-electronicsでも提供�
 
 ## 📸 使用イメージ
 
-起動画面
+起動画面  
 ![起動画面](./screenshots/screen1.png)  
 
-書き込み中
+書き込み中  
 ![書き込み中](./screenshots/screen2.png)  
 
-完了
+完了  
 ![完了](./screenshots/screen3.png)
 
 ---
